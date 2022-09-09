@@ -1,0 +1,18 @@
+{
+  "id": "7cd64922-75d9-4797-aead-e3d84ea63d6c",
+  "collaborators": [
+    {
+      "id": "bafd9587-46c9-40fe-bd93-ee2ea37848e9",
+      "role": "developer",
+      "githubUsername": "karczewskiPiotr"
+    }
+  ],
+  "description": "",
+  "name": "lines",
+  "packageManager": "npm",
+  "useSass": false,
+  "useTypescript": false,
+  "creationDate": 1662731392153,
+  "tags": [],
+  "snippets": []
+}
