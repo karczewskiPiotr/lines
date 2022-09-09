@@ -1,7 +1,7 @@
 {
   "name": "lines",
   "private": true,
-  "description": "",
+  "description": "Test project to verify if the .gitattributes line endings settings fix isomorphic git issues.",
   "version": "0.1.0",
   "author": "karczewskiPiotr",
   "dependencies": {

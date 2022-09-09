@@ -5,14 +5,26 @@
       "id": "bafd9587-46c9-40fe-bd93-ee2ea37848e9",
       "role": "developer",
       "githubUsername": "karczewskiPiotr"
+    },
+    {
+      "id": "24da605c-ca34-4b51-ba2e-5cae96e96921",
+      "githubUsername": "LostInStatic",
+      "role": "developer"
     }
   ],
-  "description": "",
+  "description": "Test project to verify if the .gitattributes line endings settings fix isomorphic git issues.",
   "name": "lines",
   "packageManager": "npm",
   "useSass": false,
   "useTypescript": false,
   "creationDate": 1662731392153,
-  "tags": [],
-  "snippets": []
+  "tags": [
+    "test"
+  ],
+  "snippets": [],
+  "status": "cloned",
+  "lastUpdate": 1662731392153,
+  "dirPath": "C:\\Users\\itsdz\\Documents\\Praca\\PWSFTviT\\lines",
+  "keepDescriptionVisible": false,
+  "keepSnippetsVisible": false
 }
